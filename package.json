@@ -1,0 +1,24 @@
+{
+  "name": "familyTree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "familyTree.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjliem/familyTree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "bugs": {
+    "url": "https://github.com/jjliem/familyTree/issues"
+  },
+  "homepage": "https://github.com/jjliem/familyTree#readme"
+}
